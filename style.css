@@ -84,6 +84,7 @@ html
 
 footer
 {
+    height: 100vh;
     margin-top: 50px;
     padding: 10px;
     color: white;
